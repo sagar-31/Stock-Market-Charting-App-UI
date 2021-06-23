@@ -1,0 +1,26 @@
+.single-input-conatainer{
+    display: flex;
+    flex-direction: row;
+    margin: 2px;
+    padding: 10px;
+    justify-content: space-between;
+}
+
+.heading-modal {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+#model{
+    max-width: 30%;
+    margin: auto;
+    margin-top: 5%;
+    background-color: #304c5e;
+    /* display: flex; */
+    align-items: center;
+    justify-content: center;
+    color: white;
+    padding: 2%;
+    border-radius: 2rem;
+  }
